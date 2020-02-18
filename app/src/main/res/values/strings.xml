@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LoginRegisterApp</string>
+    <string name="welcome">Welcome!</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="submit">Submit</string>
+    <string name="textview">TextView</string>
+    <string name="hello_user">Hello, User!</string>
+    <string name="droidy">TODO</string>
+    <string name="password">Password</string>
+    <string name="email">Email:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
+    <string name="birthday_mm_dd_yyyy">Birthday(MM/DD/YYYY)</string>
+    <string name="your_email">Your Email:</string>
+    <string name="select_password">Select Password:</string>
+    <string name="todo">TODO</string>
+    <string name="hi">HI</string>
+    <string name="sign_in">Login</string>
+    <string name="splash_name">Hello User</string>
+    <string name="username_hint">Enter User name</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up">Submit</string>
+    <string name="user_fname">First Name</string>
+    <string name="user_lname">Last Name</string>
+    <string name="user_mail">Mail ID</string>
+    <string name="mobile_no">Mobile Number</string>
+</resources>
